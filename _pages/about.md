@@ -8,13 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Welcome, I am a Ph.D. candidate in Physical Intelligence Department at Max Planck
-Institute for Intelligent Systems. I am currently working on gait optimization
-by using Gaussian Processes (GPs) and Bayesian Optimization (BO) for magnetic
-soft millirobots.
+Welcome, I am a Ph.D. candidate in Physical Intelligence Department at [Max Planck Institute for Intelligent Systems](https://pi.is.mpg.de). I am currently working on gait optimization by using Gaussian Processes (GPs) and Bayesian Optimization (BO) for magnetic soft millirobots.
 
-I earned my B.Sc. and M.Sc. degrees in Mechanical Engineering Department at METU.
-My academic research focuses on machine learning methods for robotic applications.
-Check out publications for more.
+I earned my B.Sc. and M.Sc. degrees in Mechanical Engineering Department at METU. My academic research focuses on machine learning methods for robotic applications. Check out [publications] for more.
 
-If you want to get in touch, feel free to contact me via e-mail or "LinkedIn".
+If you want to get in touch, feel free to contact me via e-mail or [LinkedIn](https://www.linkedin.com/in/sinan-ozgun-demir-981311129).
