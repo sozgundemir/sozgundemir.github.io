@@ -85,11 +85,11 @@ author:
   bio              : "Your biography for the left-hand sidebar"
   location         : "Stuttgart, Germany"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://https://scholar.google.com/citations?user=WCg7k_oAAAAJ&hl=en"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=WCg7k_oAAAAJ&hl=en"
   email            : "demir@is.mpg.de"
   researchgate     : "https://www.researchgate.net/profile/Sinan-Demir-2"
-  uri              :
+  uri              : "https://pi.is.mpg.de/person/sinandemir"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/sinan-ozgun-demir-981311129/"
+  linkedin         : "https://www.linkedin.com/in/sinan-ozgun-demir-981311129"
   orcid            : "http://orcid.org/0000-0002-6177-8372"
   pinterest        :
   soundcloud       :
